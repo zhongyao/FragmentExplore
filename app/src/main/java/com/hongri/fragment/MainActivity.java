@@ -11,6 +11,7 @@ import android.os.Bundle;
  * 参考：
  * https://blog.csdn.net/freelander_j/article/details/52925745
  * https://www.jianshu.com/p/83e673c453f9
+ * https://www.jianshu.com/p/f50a1d7ab161
  *
  * commit() 与 commitAllowingStateLoss() 的区别：
  * commit---会在Activity保存状态之前提交，否则会报异常
